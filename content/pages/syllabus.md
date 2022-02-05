@@ -35,17 +35,126 @@ For presentations on cases and evidence please keep a few things in mind. You sh
 
 For presentations on background material related to the case, please primarily use the resources provided unless mentioned. Please think about this background in the context of the case, how you can use it to help determine the cause of failure.
 
-| SES # | CASE STUDY |
-| --- | --- |
-| 1 | [Torrid telephone]({{< baseurl >}}/pages/torrid-telephone) |
-| 2 | [Soggy furs]({{< baseurl >}}/pages/soggy-furs) |
-| 3 | [Misplaced trust]({{< baseurl >}}/pages/misplaced-trust) |
-| 4 | [Aluminum ladders]({{< baseurl >}}/pages/aluminum-ladders) |
-| 5 | [Acid drum]({{< baseurl >}}/pages/acid-drum) |
-| 6 | [Nefarious needle]({{< baseurl >}}/pages/nefarious-needle) |
-| 7 | [Snow collapses]({{< baseurl >}}/pages/snow-collapses) |
-| 8 | Field trip: blacksmith lab |
-| 9 | Field trip: welding lab |
-| 10 | [Careering chip]({{< baseurl >}}/pages/careering-chip) |
-| 11 | [Broken bead]({{< baseurl >}}/pages/broken-bead) |
-| 12 | [Leg brace]({{< baseurl >}}/pages/leg-brace)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+CASE STUDY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Torrid telephone]({{< baseurl >}}/pages/torrid-telephone)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Soggy furs]({{< baseurl >}}/pages/soggy-furs)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Misplaced trust]({{< baseurl >}}/pages/misplaced-trust)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Aluminum ladders]({{< baseurl >}}/pages/aluminum-ladders)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Acid drum]({{< baseurl >}}/pages/acid-drum)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Nefarious needle]({{< baseurl >}}/pages/nefarious-needle)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[Snow collapses]({{< baseurl >}}/pages/snow-collapses)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip: blacksmith lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip: welding lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+[Careering chip]({{< baseurl >}}/pages/careering-chip)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[Broken bead]({{< baseurl >}}/pages/broken-bead)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+[Leg brace]({{< baseurl >}}/pages/leg-brace)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
